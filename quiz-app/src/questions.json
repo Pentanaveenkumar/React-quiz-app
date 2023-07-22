@@ -1,0 +1,52 @@
+[
+    {
+    "id": "qzP89s",
+    "question": "What is the first line of defense against cyber threats?",
+    "options": ["9jF7xT", "5sH2wK", "3rD6vM"]
+    },
+    {
+    "id": "XhT67B",
+    "question": "What is a common method used by hackers to steal sensitive information?",
+    "options": ["2kG4pE", "1fR5qN", "7uJ3mW"]
+    },
+    {
+    "id": "A5Y12R",
+    "question": "What is the purpose of a firewall?",
+    "options": ["6iD9vX", "4fB8cQ", "3jF2mZ"]
+    },
+    {
+    "id": "pQ98cD",
+    "question": "What is the recommended way to create a strong password?",
+    "options": ["7jU3xM", "8sL4zA", "9kR1bP"]
+    },
+    {
+    "id": "tR84wZ",
+    "question": "What does phishing involve?",
+    "options": ["6bE1fS", "7nQ2rT", "2xW5vY"]
+    },
+    {
+    "id": "kG52pN",
+    "question": "What is the best practice to keep your software secure?",
+    "options": ["5mJ8sD", "4eV9fB", "3cT6hA"]
+    },
+    {
+    "id": "uJ23vX",
+    "question": "Which of the following is an example of two-factor authentication?",
+    "options": ["4hT1rM", "5bD9qZ", "9jC7wA"]
+    },
+    {
+    "id": "eS78yH",
+    "question": "What is the purpose of a VPN (Virtual Private Network)?",
+    "options": ["1cV6dR", "3jW4sG", "2eQ5zT"]
+    },
+    {
+    "id": "xW49zM",
+    "question": "What is the meaning of the term 'malware'?",
+    "options": ["9rK3dJ", "8qA2hN", "5vZ1cL"]
+    },
+    {
+    "id": "qR26kY",
+    "question": "What is the role of a penetration tester (ethical hacker)?",
+    "options": ["3yE8uT", "2dG9pX", "7fB5sZ"]
+    }
+    ]
